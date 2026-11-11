@@ -1,0 +1,5 @@
+﻿*.exe
+*.o
+*.obj
+build_viva_doc.py
+*_Viva_Guide.docx
